@@ -6,7 +6,7 @@
 
   <groupId>com.loginapp</groupId>
   <artifactId>login-demo</artifactId>
-  <version>1.0.0</version>
+<version>1.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>Login Demo</name>
